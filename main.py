@@ -52,3 +52,4 @@ num = 4321
 a = num % 10
 print( 'Hello git')
 print( 'Hello Githud')
+print("У меня все работает" )
